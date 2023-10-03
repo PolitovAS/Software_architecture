@@ -20,4 +20,4 @@ MVP была выбрана, так как она обеспечивает ра�
 
 ![Alt text](ER2.png)
 
-![Alt text](Design.pdf)
+[Design](https://github.com/PolitovAS/Software_architecture/blob/main/HW_10/Design.pdf)
