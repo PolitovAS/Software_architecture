@@ -9,9 +9,11 @@ MVP была выбрана, так как она обеспечивает ра�
 ![Alt text](https://github.com/PolitovAS/Software_architecture/blob/main/HW_10/ER2.png?raw=true)
 
 Итоговая ERD:
+
 ![Alt text](img/ER.png)
 
 Планируемый дизайн:
+
 ![Alt text](img/Autorization.png)
 ![Alt text](img/MessengerPage.png)
 ![Alt text](img/Registration.png)
